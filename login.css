@@ -1,0 +1,49 @@
+form {
+    border: 3px solid #f1f1f1;
+    text-align: center;
+    height: 100vh;
+  }
+  body{
+    height: 100vh;
+  }
+  
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 3px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+  }
+  .cancelbtn {
+   background-color: #f44336;
+  }
+  
+
+  
+  /* Add padding to containers */
+  .container {
+    padding: 16px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  /* The "Forgot password" text */
+  span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+  
+ 
+  
